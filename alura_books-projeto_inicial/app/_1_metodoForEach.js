@@ -20,4 +20,4 @@ function exibirosLivrosNaTela(ListaDelivros){
     });
 }
 
-export default exibirosLivrosNaTela;
+export default exibirosLivrosNaTela
